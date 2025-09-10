@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     siteName: 'West Pest',
     images: [
       {
-        url: '/og_default_1200x630.png',
+        url: '/logo.png',
         width: 1200,
         height: 630,
         alt: 'West Pest - New Jersey Pest Control & Landscaping Services',
