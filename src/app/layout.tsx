@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     siteName: 'West Pest',
     images: [
       {
-        url: '/logo.png',
+        url: 'https://westpestinc.com/logo.png',
         width: 1200,
         height: 630,
         alt: 'West Pest - New Jersey Pest Control & Landscaping Services',
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'West Pest | Pest Control, Landscaping & Wildlife Services in New Jersey',
     description: 'Safe, effective pest control, landscaping, wildlife abatement, home inspections, and commercial services across New Jersey. Book a free estimate today.',
-    images: ['/og_default_1200x630.png'],
+    images: ['https://westpestinc.com/logo.png'],
   },
   robots: {
     index: true,
